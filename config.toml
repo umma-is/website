@@ -1,0 +1,7 @@
+baseURL = 'http://example.org/'
+defaultContentLanguage = 'ar'
+languageCode = 'ar'
+title = 'اللغة العربية'
+theme = "hugo-theme-monochrome"
+[build]
+  writeStats = true

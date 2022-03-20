@@ -1,0 +1,21 @@
+navbarTitle = 'أُمَّة'
+footer = "جميع الحقوق محفوظة لمنظمة أُمَّة"
+
+enableZoomingJS = true
+enableTOC = true
+enableSiteSearch = true
+enableMathJax = false
+
+# Codeblock
+usePrismJS = true
+enablePrismJSLineNo = true
+enableCodeCopy = true
+
+# SEO
+enableOpenGraph = true
+enableTwitterCards = true
+author = "إسلام شحاته"
+
+# Collapsible Menu
+enableCollapsibleTOC = true
+enableCollapsibleChangelogs = true
